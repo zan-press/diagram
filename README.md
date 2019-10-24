@@ -6,9 +6,9 @@ ZanPress software design diagrams.
 
 ## 模块列表
 
-- [稿件管理](1-SoftwareRequirements/ArticleManagement)
 - [热点新闻](1-SoftwareRequirements/NewsFeed)
-- [发布管理](1-SoftwareRequirements/ArticlePublisher)
+- [稿件管理](1-SoftwareRequirements/ArticleManagement)
+- [文章撰写](1-SoftwareRequirements/Editor)
 - [数据分析](1-SoftwareRequirements/DataAnalysis)
 - [消息管理](1-SoftwareRequirements/Messages)
 
